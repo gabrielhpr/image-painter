@@ -1,1 +1,0 @@
-tar -cvf ep2.tar imagem.c main.c
