@@ -14,7 +14,7 @@ Contain functions to create the regions, to paint some region, to make an aleato
 
 ## graphic.c
 
-##io.c
+## io.c
 Open .ppm images and store them when requested.
 
 # Tests
