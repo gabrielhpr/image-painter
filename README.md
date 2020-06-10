@@ -1,9 +1,21 @@
 # Implementation details
 The project was developed in C programming language. The main files are:
 
-- fasd
-- afds
-- asdf
+- main.c
+- imagem.c
+- graphic.c
+- io.c
+
+## main.c
+Open the image.
+
+## imagem.c
+Contain functions to create the regions, to paint some region, to make an aleatory painting.
+
+## graphic.c
+
+##io.c
+Open .ppm images and store them when requested.
 
 # Tests
 
